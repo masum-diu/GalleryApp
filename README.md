@@ -1,6 +1,6 @@
-# Welcome to your Expo app 👋
+# Mobile Gallery App 📸
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+This is a mobile gallery application built using Expo and React Native. The app fetches images from an API, displays them in a gallery format, and allows users to view details for each image.
 
 ## Get started
 
@@ -37,10 +37,9 @@ This command will move the starter code to the **app-example** directory and cre
 
 ## Learn more
 
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+Features
+Gallery Screen: Display a grid of image thumbnails.
+Image Detail Screen: View full-size images along with their titles and descriptions.
 
 ## Join the community
 
