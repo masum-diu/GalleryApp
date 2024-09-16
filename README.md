@@ -38,8 +38,10 @@ This command will move the starter code to the **app-example** directory and cre
 ## Learn more
 
 Features
-Gallery Screen: Display a grid of image thumbnails.
-Image Detail Screen: View full-size images along with their titles and descriptions.
+Gallery Screen:
+Display a grid of image thumbnails.
+Image Detail Screen:
+View full-size images along with their titles and descriptions.
 
 ## Join the community
 
