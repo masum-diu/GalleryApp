@@ -54,6 +54,7 @@ const styles = StyleSheet.create({
   imageThumbnail: {
     width: Dimensions.get("window").width / 3 - 10,
     height: Dimensions.get("window").width / 3 - 10,
+    margin: 5,
   },
 });
 
